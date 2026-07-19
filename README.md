@@ -5,7 +5,6 @@ I am a Senior Software Engineer with 5+ years of experience designing and develo
 
 I am passionate about bridging robust backend engineering fundamentals with cutting-edge AI orchestration to build highly reliable, observable, and production-ready systems.
 
----
 
 #### 🚀 About Me
 
@@ -20,5 +19,3 @@ I am passionate about bridging robust backend engineering fundamentals with cutt
 *   📊 **Engineering Philosophy:** Strong believer in optimizing for system performance and reliability, ensuring distributed applications are not only highly scalable but also deeply observable and testable.
 
 *   📫 **Contact:** Available via [LinkedIn](https://www.linkedin.com/in/onkar-chaware) or at onkarchaware@gmail.com
-
----
