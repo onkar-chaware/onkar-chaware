@@ -5,7 +5,7 @@ I am a Senior Software Engineer with 5+ years of experience designing and develo
 
 I am passionate about bridging robust backend engineering fundamentals with cutting-edge AI orchestration to build highly reliable, observable, and production-ready systems.
 
-#### 🛠️ Tech Stack & Tools
+#### 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
