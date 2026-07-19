@@ -1,6 +1,6 @@
-# Hi there, I'm Onkar 👋
+## Hi there, I'm Onkar 👋
 
-### Senior Software Engineer
+#### Senior Software Engineer
 
 I am a Senior Software Engineer with 5+ years of experience designing and developing scalable, cloud-native distributed systems. My expertise spans building high-performance microservices, event-driven architectures, and real-time data processing solutions. My recent focus centers on developing agentic AI capabilities, intelligent backend services, and orchestration workflows to automate complex operational tasks.
 
@@ -8,7 +8,7 @@ I am passionate about bridging robust backend engineering fundamentals with cutt
 
 ---
 
-### 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
@@ -23,7 +23,7 @@ I am passionate about bridging robust backend engineering fundamentals with cutt
 ---
 
 
-### 🚀 About Me
+#### 🚀 About Me
 
 *   🎓 **Experience:** 5+ years of experience across software engineering, distributed systems, and cloud-native architectures, delivering enterprise-scale capabilities for modern observability platforms.
 
